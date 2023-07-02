@@ -1,7 +1,7 @@
 Cardiología 	3	8:00	OMINT	841834
 Neurología 	27	10:00	IOSFA	737555
 Cirugía general 10	12:30	OSECAC	668632
-Otorrino 	16	14:00	OSDE	792235
+Otorrinolaringología 	16	14:00	OSDE	792235
 Laboratorio 	9	18:00	PAMI	523858
 Urología 	15	10:30	ACASALUD664322
 Anestesiología 	30	8:30	MEDIFE	940951
