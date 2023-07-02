@@ -5,7 +5,7 @@
 4  Cardiología
 5  Endocrinología
 6  Oftalmología
-7  Otorrino
+7  Otorrinolaringología
 8  Cirugía general
 9  Ortopedia
 10 Psiquiatría
