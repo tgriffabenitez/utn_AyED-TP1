@@ -1,0 +1,24 @@
+Cardiología 	3	8:00	OMINT	841834
+Neurología 	27	10:00	IOSFA	737555
+Cirugía general 10	12:30	OSECAC	668632
+Otorrino 	16	14:00	OSDE	792235
+Laboratorio 	9	18:00	PAMI	523858
+Urología 	15	10:30	ACASALUD664322
+Anestesiología 	30	8:30	MEDIFE	940951
+Quiropráctica 	7	9:00	SANCOR	205837
+Oftalmología 	17	11:30	AMUR	444978
+Hematología 	14	16:00	BRAMED	912885
+Ortopedia 	28	19:00	APOS	759779
+Endocrinología 	17	17:30	OSTEL	406344
+Ginecología 	22	12:00	OSPSA	942058
+Otorrino 	15	15:00	OSECAC	269505
+Dermatología 	10	13:30	MEDIFE	718887
+Endocrinología 	4	9:30	IOSFA	132430
+Psiquiatría 	14	16:30	ACASALUD699673
+Pediatría 	5	17:00	PAMI	939378
+Gastroenterología 23	19:30	OSDE	904413
+Oftalmología 	6	11:00	OMINT	303359
+Nefrología 	21	15:30	BRAMED	246364
+Cirugía general 6	13:00	SANCOR	956727
+Ortopedia 	7	14:30	OSTEL	485606
+Psiquiatría 	18	18:30	MEDIFE	799923
