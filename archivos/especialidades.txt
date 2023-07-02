@@ -1,0 +1,20 @@
+0  Dermatología
+1  Gastroenterología
+2  Neurología
+3  Pediatría
+4  Cardiología
+5  Endocrinología
+6  Oftalmología
+7  Otorrino
+8  Cirugía general
+9  Ortopedia
+10 Psiquiatría
+11 Laboratorio
+12 Nefrología
+13 Hematología
+14 Quiropráctica
+15 Geriatría
+16 Urología
+17 Ginecología
+18 Anestesiología
+19 Psiquiatría
