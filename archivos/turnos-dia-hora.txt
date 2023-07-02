@@ -21,4 +21,4 @@ Oftalmología 	6	11:00	OMINT	303359
 Nefrología 	21	15:30	BRAMED	246364
 Cirugía general 6	13:00	SANCOR	956727
 Ortopedia 	7	14:30	OSTEL	485606
-Psiquiatría 	18	18:30	MEDIFE	799923
+Proctología 	18	18:30	MEDIFE	799923
