@@ -1,0 +1,25 @@
+González  Carlos    235678 Cardiología          M
+Rodríguez Ana       789012 Dermatología         T
+López     Martín    567890 Gastroenterología    N
+Martínez  Laura     123456 Neurología           T
+Fernández Pedro     908765 Pediatría            M
+García    María     456789 Medicina interna     T
+Torres    Andrea    234567 Endocrinología       N
+Pérez     Alejandro 890123 Oftalmología         M
+Sánchez   Patricia  678901 Otorrinolaringología T
+Morales   Luis      345678 Cirugía general      N
+González  Ana       901234 Ortopedia            M
+Silva     Javier    567890 Psiquiatría          T
+Bravo     Carolina  387921 Medicina familiar    N
+Ríos      Daniel    846572 Nefrología           M
+Mendoza   Natalia   950243 Hematología          T
+Soto      Gabriel   712589 Medicina del deporte N
+Medina    Alejandra 241850 Geriatría            M
+Ruiz      Oscar     102347 Traumatología        T
+Rojas     Paula     685793 Dermatología         N
+Nuñez     Roberto   583012 Medicina interna     M
+Hernández Andrés    759312 Urología             T
+Romero    Laura     482930 Neumología           N
+Paredes   Sebastián 643521 Oncología            M
+Morales   Gabriela  294715 Psicología           T
+Castro    Juan      138420 Medicina deportiva   N
