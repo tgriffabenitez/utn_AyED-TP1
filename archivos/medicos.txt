@@ -21,5 +21,5 @@ Nuñez     Roberto   583012 Medicina interna     M
 Hernández Andrés    759312 Urología             T
 Romero    Laura     482930 Neumología           N
 Paredes   Sebastián 643521 Oncología            M
-Morales   Gabriela  294715 Psicología           T
+Morales   Gabriela  294715 Proctología          T
 Castro    Juan      138420 Medicina deportiva   N
